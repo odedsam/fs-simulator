@@ -2,7 +2,7 @@
 
 A minimal file system simulator implemented in C++ with smart pointer memory management. This project demonstrates object-oriented programming principles, smart pointers usage, and basic file system operations.
 
-## Features
+## Features-1
 
 - **Object-Oriented Design**: Clean class hierarchy with `FileSystemNode`, `File`, and `Directory` classes
 - **Smart Pointer Memory Management**: Uses `shared_ptr` and `weak_ptr` to avoid memory leaks and circular references
